@@ -12,8 +12,8 @@ return {
 			Height = 5.2,
 			Ambush = {
 				Enabled = false,
-				MinCycles = 1,
-				MaxCycles = 6,
+				MinCycles = 2,
+				MaxCycles = 5,
 				AmbienceMusic = workspace.AmbushMoving.RushNew.SpawnSound,
 				WT_Increase = 0.5,
 				Speed_Increase = 20,
